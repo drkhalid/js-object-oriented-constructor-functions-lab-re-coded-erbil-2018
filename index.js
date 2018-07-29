@@ -5,7 +5,7 @@ function Scooter(year, color, moddel){
 }
 
 
-function Scooter(year, color, moddel){
+function Driver(year, color, moddel){
   this.year = year
   this.color = color
   this.model = moddel
