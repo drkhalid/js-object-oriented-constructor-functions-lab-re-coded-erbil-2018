@@ -1,4 +1,4 @@
-function Scooter(2015, "red", "swoosh"){
+function Scooter(year,color,method){
   this.year=2015
   this.red =
 }
