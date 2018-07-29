@@ -5,10 +5,10 @@ function Scooter(year, color, moddel){
 }
 
 
-function Driver(name, age, moddel){
+function Driver(name, age, experience){
   this.year = year
   this.color = color
-  this.model = moddel
+  this.experience = experience
 }
 
 
