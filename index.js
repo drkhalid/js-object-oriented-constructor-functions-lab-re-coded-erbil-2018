@@ -7,7 +7,7 @@ function Scooter(year, color, moddel){
 
 function Driver(name, age, experience){
   this.year = year
-  this.color = color
+  this.age = age
   this.experience = experience
 }
 
