@@ -1,5 +1,5 @@
 function Scooter(year,color,method){
-  this.year=2015
+  this.year=year
   this.color =color
   this.method=method
 }
