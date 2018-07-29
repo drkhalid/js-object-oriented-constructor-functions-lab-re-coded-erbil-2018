@@ -11,8 +11,8 @@ function Driver(name, age, experience){
   this.experience = experience
 }
 
-function PickupLocation(name, age, experience){
-  this.name = name
+function PickupLocation(address, age, experience){
+  this.address = address
   this.age = age
   this.experience = experience
 }
